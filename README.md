@@ -9,3 +9,5 @@ Tech Support @ Apple
 - project 2!
 
 ### Projects
+EEG Band Discovery
+
