@@ -1,13 +1,18 @@
 #Software Engineer
 
+### Profile Summary
+. Proven ability 
+
 ### Education
-Physics, PhD
+Clemson University - Computer Science
 
 ### Work Experience
-Tech Support @ Apple
-- Project 1!
-- project 2!
+
 
 ### Projects
-EEG Band Discovery
+Connect 4 - 
 
+### Technial Skills
+Tools - Visual Studio, Andriod Studio, Linux, IntelliJ, Vim, emacs
+
+Languages - C/C++, Java, Python
