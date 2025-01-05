@@ -29,5 +29,7 @@ Connect 4 - Worked in a team to design and develop a Connect 4 game, adhering to
 
 ### Technial Skills
 Tools - Visual Studio, Andriod Studio, Linux, IntelliJ, Vim, emacs
+
 Technologies - Git/GitHub
+
 Languages - C/C++, Java, Python
