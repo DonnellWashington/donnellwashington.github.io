@@ -1,7 +1,7 @@
 #Software Engineer
 
 ### Profile Summary
-. Advanced proficiency in software and Linux, Git/Github coding languages such as C/C++, Java, and Python
+- Advanced proficiency in software and Linux, Git/Github coding languages such as C/C++, Java, and Python
 . Strong understanding of hardware components and computer systems
 . Experienced in developing innovative solutions and contributing effectively to projects
 . Proficient in working with embedded systems such as arduino
@@ -19,9 +19,8 @@ Clemson University - Computer Science 2022-2027
 
 ### Work Experience
 Coding Instructor Intern - Beaufort Digital Corridor 2020-2022
-  . Collaborated with a team to design and build small-scale projects, including 
-    games, to enhance students’ learning experience.
-  . Enhanced communication and leadership skills by mentoring students in group and        one-on-one settings.
+- Collaborated with a team to design and build small-scale projects, including games, to enhance students’ learning experience.
+- Enhanced communication and leadership skills by mentoring students in group and one-on-one settings.
 
 
 ### Projects
