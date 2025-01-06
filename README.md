@@ -13,7 +13,6 @@
 - Software Development Foundations
 - Discrete Structures for Computing 
 
-
 ### Education
 Clemson University - Computer Science 2022-2027
 
@@ -21,7 +20,6 @@ Clemson University - Computer Science 2022-2027
 Coding Instructor Intern - Beaufort Digital Corridor 2020-2022
 - Collaborated with a team to design and build small-scale projects, including games, to enhance students’ learning experience.
 - Enhanced communication and leadership skills by mentoring students in group and one-on-one settings.
-
 
 ### Projects
 Connect 4
