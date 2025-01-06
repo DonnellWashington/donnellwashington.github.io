@@ -25,7 +25,7 @@ Coding Instructor Intern - Beaufort Digital Corridor 2020-2022
 
 ### Projects
 Connect 4
-. Worked in a team to design and develop a Connect 4 game, adhering to industry-standard tools and practices. The project focused on creating a robust, scalable, and user-friendly version of the classic Connect 4 game. During this project, I contributed to both the development and optimization processes, learning how to write clean, maintainable, and efficient code.
+- Worked in a team to design and develop a Connect 4 game, adhering to industry-standard tools and practices. The project focused on creating a robust, scalable, and user-friendly version of the classic Connect 4 game. During this project, I contributed to both the development and optimization processes, learning how to write clean, maintainable, and efficient code.
 
 ### Technial Skills
 Tools - Visual Studio, Andriod Studio, Linux, IntelliJ, Vim, emacs
