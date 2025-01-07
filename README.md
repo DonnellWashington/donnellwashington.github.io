@@ -24,7 +24,6 @@ Coding Instructor Intern - Beaufort Digital Corridor 2020-2022
 ### Projects
 Extended Connect 4
 - Worked in a team to design and develop an extended version of the Connect 4 Game that runs with a command-line interface. Unlike the classic Connect 4 game, the game implemented through Java allow users to choose dynamic board sizes, customize the difficulty through changes win requirements, and provides options for more than 2 players. The game also allows for both fast and memory efficent version of the game in order to better suite the player experience. adhering to industry-standard tools and practices. The project focused on creating a robust, scalable, and user-friendly version of the classic Connect 4 game. During this project, I contributed to both the development and optimization processes, learning how to write clean, maintainable, and efficient code.
-- Code Snippets
 
 ### Technial Skills
 Tools - Visual Studio, Andriod Studio, Linux, IntelliJ, Vim, emacs
