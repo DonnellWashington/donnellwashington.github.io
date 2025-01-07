@@ -44,3 +44,9 @@ Tools - Visual Studio, Android Studio, Unity Game Engine, Linux, IntelliJ, Vim, 
 Technologies - Git/GitHub
 
 Languages - C/C++, Java, Python, x86-64 Assembly
+
+
+### Contact Info
+
+Email: wasnelly4@gmail.com
+LinkedIn: [linkedin](https://www.linkedin.com/in/donnell-washington-175699328/?trk=opento_sprofile_details)
