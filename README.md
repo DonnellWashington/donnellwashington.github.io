@@ -23,6 +23,7 @@ Clemson University - Computer Science 2022-2027
 Coding Instructor Intern - Beaufort Digital Corridor 2020-2022
 - Designed and developed interactive coding projects (games, apps) to engage students in software development.
 - Enhanced communication and leadership skills by mentoring students in group and one-on-one settings.
+- Utilized Unity game development platform to design and create educational games, providing an immersive learning experience for users.
 
 ### Projects
 Extended Connect 4
@@ -38,7 +39,7 @@ This first image shows the fast implementation for the connect 4 game. Using a 2
 On the contrary this second image uses a hash map to store the spaces and tokens. This method is better for users who don't have a lot of memory. This is because the spaces don't exist until they are occupied by a token and therefore the spaces that remain empty do not take up memory.
 
 ### Technical Skills
-Tools - Visual Studio, Android Studio, Linux, IntelliJ, Vim, emacs
+Tools - Visual Studio, Android Studio, Unity Game Engine, Linux, IntelliJ, Vim, emacs
 
 Technologies - Git/GitHub
 
